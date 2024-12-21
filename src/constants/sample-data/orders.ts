@@ -1,4 +1,4 @@
-import { Order } from "../../pages/sales-dashboard/types";
+import { Order } from "../../types/sales-dashboard";
 
 export const orders: Order[] = [
   {
