@@ -15,6 +15,7 @@ export const RenderCards: React.FC<RenderCardProps> = ({ selectedPeriod }) => {
        <div className="grid md:grid-cols-3 my-10 w-full h-auto  gap-y-5 gap-x-10">
       {Object.keys(periodData).map((key) => {
         const metric = periodData[key as keyof typeof periodData];
+        console.log('key', key, )
         const IconComponent = iconMapping[key] || null;
 
         return (

@@ -6,7 +6,7 @@ export const dashboardData = {
       trendType: "increase",
       comparisonPeriod: "Last 7 days",
     },
-    "orders Placed": {
+    ordersPlaced: {
       value: 12,
       trend: "-15%",
       trendType: "decrease",
@@ -18,19 +18,19 @@ export const dashboardData = {
       trendType: "decrease",
       comparisonPeriod: "Last 7 days",
     },
-    "total Sales Value": {
+    totalSalesValue: {
       value: "$2,400",
       trend: "+15%",
       trendType: "increase",
       comparisonPeriod: "Last 7 days",
     },
-    "avg Order Value": {
+    avgOrderValue: {
       value: "$240",
       trend: "+15%",
       trendType: "increase",
       comparisonPeriod: "Last 7 days",
     },
-    "commission Paid": {
+    commissionPaid: {
       value: "$240",
       trend: "+15%",
       trendType: "increase",
@@ -44,7 +44,7 @@ export const dashboardData = {
       trendType: "increase",
       comparisonPeriod: "Year to Date",
     },
-    "orders Placed": {
+    ordersPlaced: {
       value: 75,
       trend: "-8%",
       trendType: "decrease",
@@ -56,19 +56,19 @@ export const dashboardData = {
       trendType: "increase",
       comparisonPeriod: "Year to Date",
     },
-    "total Sales Value": {
+    totalSalesValue: {
       value: "$12,000",
       trend: "+25%",
       trendType: "increase",
       comparisonPeriod: "Year to Date",
     },
-    "avg Order Value": {
+    avgOrderValue: {
       value: "$280",
       trend: "+10%",
       trendType: "increase",
       comparisonPeriod: "Year to Date",
     },
-    "commission Paid": {
+    commissionPaid: {
       value: "$1,200",
       trend: "+15%",
       trendType: "increase",
@@ -82,7 +82,7 @@ export const dashboardData = {
       trendType: "increase",
       comparisonPeriod: "Last 30 days",
     },
-    "orders Placed": {
+    ordersPlaced: {
       value: 18,
       trend: "+10%",
       trendType: "increase",
@@ -94,19 +94,19 @@ export const dashboardData = {
       trendType: "decrease",
       comparisonPeriod: "Last 30 days",
     },
-    "total Sales Value": {
+    totalSalesValue: {
       value: "$3,000",
       trend: "+20%",
       trendType: "increase",
       comparisonPeriod: "Last 30 days",
     },
-    "avg Order Value": {
+    avgOrderValue: {
       value: "$250",
       trend: "+5%",
       trendType: "increase",
       comparisonPeriod: "Last 30 days",
     },
-    "commission Paid": {
+    commissionPaid: {
       value: "$300",
       trend: "+10%",
       trendType: "increase",
@@ -120,7 +120,7 @@ export const dashboardData = {
       trendType: "increase",
       comparisonPeriod: "Last 90 days",
     },
-    "orders Placed": {
+    ordersPlaced: {
       value: 36,
       trend: "-5%",
       trendType: "decrease",
@@ -132,19 +132,19 @@ export const dashboardData = {
       trendType: "increase",
       comparisonPeriod: "Last 90 days",
     },
-    "total Sales Value": {
+    totalSalesValue: {
       value: "$6,000",
       trend: "+10%",
       trendType: "increase",
       comparisonPeriod: "Last 90 days",
     },
-    "avg Order Value": {
+    avgOrderValue: {
       value: "$270",
       trend: "+2%",
       trendType: "increase",
       comparisonPeriod: "Last 90 days",
     },
-    "commission Paid": {
+    commissionPaid: {
       value: "$600",
       trend: "+5%",
       trendType: "increase",
