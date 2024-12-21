@@ -27,7 +27,7 @@ export const SalesDashboard = () => {
       <div className="fixed bottom-0 right-0 p-5 flex flex-col gap-5 items-end">
       {isChatOpen && <MyChatBot />}
       <button  onClick={()=> {setIsChatOpen(!isChatOpen)}}>
-        <img src="src/assets/chatbot.webp" className="size-10" />
+        <img src="/assets/chatbot.webp" className="size-10" />
       </button>
       </div>
     </div>

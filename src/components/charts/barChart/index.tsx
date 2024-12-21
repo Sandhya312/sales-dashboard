@@ -25,7 +25,7 @@ export const BarChart: React.FC = () => {
   ];
   return (<div className="h-auto border border-border1 rounded-2xl p-5 md:col-span-3">
     <div className="flex items-center gap-2 w-full">
-      <img src="src/assets/Network.svg" className="min-h-4" />
+      <img src="/assets/Network.svg" className="min-h-4" />
         <p className="uppercase text-gray1">VS PAST PERIOD</p>
       </div>
     <Bar dataCategory={categories} datasets={datasets} />

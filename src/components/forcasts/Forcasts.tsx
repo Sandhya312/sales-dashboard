@@ -5,7 +5,7 @@ export const Forcasts: React.FC = () => {
     <div className="h-auto border border-border1 rounded-2xl p-5 md:col-span-2 bg-gradient-to-br from-teal-400 to-teal-600 text-white shadow-lg
       ">
       <div className="flex items-center gap-2 w-full">
-      <img src="src/assets/Chats.svg" />
+      <img src="/assets/Chats.svg" />
         <p className="uppercase">fORECASTs</p>
       </div>
       

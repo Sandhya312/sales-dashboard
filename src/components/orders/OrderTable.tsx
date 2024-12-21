@@ -38,7 +38,7 @@ export const OrderTable: React.FC<OrderTableProps> = ({ orders }) => {
           <tr key={index}>
             <td className="p-tablePadding">
               <div className="flex gap-4">
-                <img src="src/assets/HeadPhone.svg" alt="Product Icon" />
+                <img src="/assets/HeadPhone.svg" alt="Product Icon" />
                 {order?.product}
               </div>
             </td>

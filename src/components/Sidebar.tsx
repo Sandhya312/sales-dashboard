@@ -16,17 +16,17 @@ export const SideBar = () => {
         items-center
         flex-col h-1/3"
       >
-        <img src="src/assets/Logo.svg" alt="logo" />
+        <img src="/assets/Logo.svg" alt="logo" />
         <hr className="border-1 outline-none w-full border-green2" />
         <section className=" h-2/3">
           <div className="flex justify-between h-full items-center flex-col">
-            <img src="src/assets/Home.svg" alt="home"
+            <img src="/assets/Home.svg" alt="home"
               className="cursor-pointer"
               />
-            <img src="src/assets/Chats.svg" alt="chats"
+            <img src="/assets/Chats.svg" alt="chats"
               className="cursor-pointer"
               />
-            <img src="src/assets/People.svg" alt="people"
+            <img src="/assets/People.svg" alt="people"
               className="cursor-pointer"
               />
           </div>
@@ -39,7 +39,7 @@ export const SideBar = () => {
         items-center
         h-2/3
         ">
-        <img src="src/assets/settings.svg" alt="settings" />
+        <img src="/assets/settings.svg" alt="settings" />
       </div>
     </div>
   )
